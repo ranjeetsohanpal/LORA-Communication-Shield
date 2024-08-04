@@ -1,4 +1,4 @@
-# LoRa_Comm_Mobile
+# LORA Communication using Mobiles
 Used for communicating via LoRa through mobiles
 
 This was a project that we were assigned as part of our university curriculum.
